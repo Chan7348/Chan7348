@@ -2,7 +2,7 @@
 ### I'm from Hong Kong Baptist University(Zhuhai)
 
 
-## I'm on my way to be a Blockchain engineer, a Web developer and a Robotics Scholar!!
+## I'm a Blockchain engineer, a Web developer and a Robotics Scholar!!
 
 - 🌱 I’m currently learning everything 🤣 Read one more book!
 - 👯 I’m looking to collaborate with other content creators
@@ -13,6 +13,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
