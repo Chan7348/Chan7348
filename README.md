@@ -4,9 +4,9 @@
 
 ## I'm a Blockchain engineer, a Web developer and a Robotics Scholar!!
 
-- 🌱 I’m currently learning everything 🤣 Read one more book!
+- 🌱 I’m currently learning everything in web3 🤣!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 
 <br />
