@@ -1,4 +1,4 @@
-### Hi there, I'm Dropnear 👋
+### Hi there, I'm Dropnear(just call me Drop) 👋
 ### I'm from Hong Kong Baptist University(Zhuhai)
 
 
